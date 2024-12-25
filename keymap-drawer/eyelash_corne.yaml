@@ -44,8 +44,8 @@ layers:
   - $$mdi:apple-keyboard-control$$
   - $$mdi:keyboard-esc$$
   - NUMBER
-  - {t: '$$mdi:keyboard-space$$', h: Fn}
   - {t: '$$mdi:keyboard-return$$', h: Fn}
+  - {t: '$$mdi:keyboard-space$$', h: Fn}
   - SYMBOL
   - $$mdi:apple-keyboard-option$$
   NUMBER:
